@@ -1,4 +1,4 @@
-# 一个逗比魔改的Directory Lister~
+﻿# 一个逗比魔改的Directory Lister~1
 
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
